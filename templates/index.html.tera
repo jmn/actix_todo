@@ -16,7 +16,7 @@
     <p><!-- nothing to see here --></p>
 
     <div class="row">
-      <h4><a href="https://actix.rs/">Actix</a> Todo on <a href="https://render.com">Render</a></h4>
+      <h4><a href="https://actix.rs/">Actix</a> Todo! on <a href="https://render.com">Render</a></h4>
       <form action="/todo" method="post">
         <div class="ten columns">
           <input type="text" placeholder="enter a task description ..."
